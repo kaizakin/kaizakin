@@ -1,5 +1,3 @@
-### Karthik Balasubramanian
-
 I'm a Systems-focused Backend Developer, Open-source contributor and Linux enthusiast building infrastructure with Go.
 
 Learning about containers, linux internals, distributed systems, Kubernetes always interests me.  
